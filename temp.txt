@@ -1,0 +1,12 @@
+Директория scr создана
+Директория res создана
+Директория savegames создана
+Директория temp создана
+Директория main не была создана
+Директория test не была создана
+Директория dravables создана
+Директория vectors создана
+Директория icons создана
+Файл Main.java не был создан. No such file or directory
+Файл Utils.java не был создан. No such file or directory
+Файл temp.txt был создан
